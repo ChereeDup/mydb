@@ -1,0 +1,9 @@
+"pat_id","pat_passw","pat_surname","pat_name","pat_birthdate","pat_gender","pat_race","pat_role","addr_street","addr_subburb","addr_city","pat_phone","pat_email","aid_num","pat_aid","pat_plan","pat_doc","doc_auth","pharm_auth"
+"2006080199086","2006080199086","August","Adrian","2020-06-18","male","coloured","Patient","56 Goud street","Bult","Potchefstroom",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2006190199084","2006190199084","Kruger","Johan","2020-06-19","male","white","Patient","88 Skool street","Miederpark","Potchefstroom",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"5512150955081","5512150955081","De Beer","Sarah","1955-12-15","Female","White","Doctor","47 Risik street","Bult","Potchefstroom","0785560219","sarahdb@gmail.com","123456","Discovery","Full Cover","8211014562086",,"8706011235082"
+"6903286166085","6903286166085","Coetzee","Jantjies","1969-03-28","Male","Coloured","Government","7 Arend Weg","Centurion","Pretoria","0615228963","jcoetzee@gmail.com","55668900","Medicall Health","Hospital Plan","5512150955081",,"8706011235082"
+"8211014562086","8211014562086","Oosthuizen","Alfred","1982-11-01","Male","White","Doctor","56 Retief street","Suid dorp","Potchefstroom","0625549812","aoosthuizen@gmail.com","056339521","Discovery","Hospital Plan","5512150955081",,"8706011235082"
+"8706011235082","8706011235082","Van Wyk","Michelle","1987-06-01","Female","White","Pharmacists","21 Buiten street",,"Delareyville","0792651953","michelle.vw@gmail.com","0000235948","Discovery","Full Cover","5512150955081",,
+"9502170156083","9502170156083","Van Wyk","Benic","1995-02-17","Male","White","Patient","6 Sonvanger","Mooivallei","Potchefstroom",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"9504080188081","9504080188081","Du Plessis","Cheree","1995-04-08","Female","White","Patient","8 Kgaka street","Mooivallei","Potchefstroom","0826179226","cheree114@gmail.com","123456","Discovery","Hospital Plan","5512150955081","8211014562086","8706011235082"
